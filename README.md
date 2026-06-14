@@ -1,286 +1,223 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00D9FF&text=MINAKSHEE%20ZOPE&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=MINAKSHEE%20ZOPE&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Frontend+Engineer+%F0%9F%9A%80;React.js+Developer+%F0%9F%92%BB;Flutter+Application+Developer+%F0%9F%93%B1;Data+Processing+%26+Analytics+Specialist+%F0%9F%93%8A;Building+Scalable+Digital+Experiences+%E2%9A%A1"/>
+# ⚡ Frontend Engineer • Flutter Developer • Data Specialist
 
-<p>
-<a href="mailto:zopeminakshee@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Digital+Experiences;React.js+%7C+Flutter+%7C+Data+Analytics;Creating+Scalable+Modern+Applications;Transforming+Ideas+Into+Reality"/>
+
+<br>
 
 <a href="https://www.linkedin.com/in/minakshee-zope/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MINAKSHEE1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=MINAKSHEE1&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+<a href="mailto:zopeminakshee@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🌌 About Me
+# 🌌 DIGITAL PROFILE
+
+<table>
+<tr>
+<td width="50%">
+
+### 👩‍💻 About Me
 
 ```yaml
-name: Minakshee Zope
+Name: Minakshee Zope
 
-role:
-  - Frontend Engineer
-  - React.js Developer
-  - Flutter Developer
-  - Data Specialist
+Role:
+  Frontend Engineer
 
-current_company:
+Current:
+  Trainee Engineer
   Cognexia AI LLP
 
-education:
-  Bachelor of Engineering
-  Computer Science
+Focus:
+  React.js
+  Flutter
+  Data Engineering
+  AI Solutions
 
-interests:
-  - Web Development
-  - Mobile App Development
-  - Data Analytics
-  - Artificial Intelligence
-  - UI/UX Engineering
-
-mission:
-  Building scalable products that solve real-world problems.
+Mission:
+  Building scalable
+  user-centric software
 ```
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MINAKSHEE1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ Engineering Dashboard
+# 🚀 TECH UNIVERSE
 
 <div align="center">
 
-| Focus Area | Progress |
-|------------|----------|
-| Frontend Development | ████████████████████ 95% |
-| React.js Ecosystem | ████████████████████ 95% |
-| Flutter Development | ██████████████████░░ 90% |
-| Data Analytics | █████████████████░░░ 85% |
-| Machine Learning | ███████████████░░░░░ 75% |
-| Artificial Intelligence | ████████████████░░░░ 80% |
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,tailwind,bootstrap"/>
+
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase"/>
+
+### DATA & AI
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress"/>
 
 </div>
 
 ---
 
-# 💼 Experience Timeline
+# ⚡ EXPERIENCE MATRIX
 
-## 🚀 Trainee Engineer | Cognexia AI LLP
+## 🚀 Cognexia AI LLP
 
 ```diff
-+ Data Processing & Validation
-+ Data Transformation Pipelines
++ Data Processing
++ Data Validation
++ Data Transformation
 + React.js Development
 + Flutter Development
-+ WordPress Customization
-+ Git Version Control
-+ SDLC Collaboration
-+ UI Optimization
++ WordPress Solutions
++ Git Collaboration
 ```
-
-### Impact
-
-✔ Processed and transformed business-critical datasets
-
-✔ Developed responsive WordPress websites
-
-✔ Built scalable React.js and Flutter applications
-
-✔ Collaborated with cross-functional teams
-
-✔ Improved frontend performance and usability
 
 ---
 
-## 🎨 UI/UX Intern | Probity
+## 🎨 Probity
 
 ```diff
-+ UI Design
++ UI/UX Design
 + User Research
-+ Wireframing
-+ Prototyping
 + Responsive Design
++ Prototyping
 ```
 
 ---
 
-## 🌐 Web Development Intern | InternPe
+## 🌐 InternPe
 
 ```diff
-+ MERN Stack Development
-+ REST API Integration
-+ Full Stack Engineering
++ MERN Development
++ REST APIs
++ Full Stack Projects
 + Application Optimization
 ```
 
 ---
 
-# 🛠 Tech Ecosystem
+# 🧠 PROJECT VAULT
 
-## Frontend Stack
+<table>
+<tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,bootstrap,tailwind" />
-</p>
-
----
-
-## Backend & Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
-</p>
-
----
-
-## Programming & Analytics
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<div align="center">
-
-Python • Pandas • NumPy • SQL • Power BI • Tableau
-
-Data Processing • Data Validation • Data Transformation
-
-</div>
-
----
-
-## Development Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
-</p>
-
----
-
-# 🚀 Featured Projects
+<td width="50%">
 
 ## 📊 Smart Data Analysis Dashboard
 
-### Stack
+Automated platform for:
+
+✨ Data Cleaning
+
+📈 Visualization
+
+🤖 ML Predictions
+
+📊 Business Insights
+
+</td>
+
+<td width="50%">
+
+## 🛡 Human Safety App
+
+Real-time emergency system:
+
+📍 GPS Tracking
+
+🚨 SOS Alerts
+
+☁ Firebase Cloud
+
+🔒 Secure Authentication
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📡 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MINAKSHEE1&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINAKSHEE1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌍 CURRENT STATUS
 
 ```yaml
-Python
-Pandas
-Streamlit
-Machine Learning
-Data Visualization
-```
+Learning:
+  - Artificial Intelligence
+  - Advanced React
+  - Cloud Technologies
 
-### Highlights
+Building:
+  - Scalable Applications
+  - Data Solutions
+  - Mobile Experiences
 
-🚀 Automated Data Cleaning
-
-📈 Interactive Dashboards
-
-🤖 Machine Learning Predictions
-
-📊 Business Intelligence Insights
-
----
-
-## 🛡 Human Safety Application
-
-### Stack
-
-```yaml
-Flutter
-Firebase
-Cloud Firestore
-Google Maps API
-```
-
-### Highlights
-
-📍 Real-Time GPS Tracking
-
-🚨 Emergency SOS Alerts
-
-☁ Cloud Synchronization
-
-🔐 Secure Authentication
-
----
-
-# 🏆 Achievements
-
-```text
-✓ Frontend Engineering
-✓ React.js Development
-✓ Flutter Applications
-✓ Data Analytics
-✓ WordPress Development
-✓ UI/UX Design
-
-→ Next Target:
-  Artificial Intelligence
-  Cloud Computing
-  Full Stack Architecture
+Goal:
+  Become an AI-Powered
+  Full Stack Engineer
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 🔗 CONNECT
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINAKSHEE1&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 🌐 Professional Network
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINAKSHEE1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MINAKSHEE1&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/MINAKSHEE1/MINAKSHEE1/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-### 📧 Email
-
-zopeminakshee@gmail.com
-
-### 💼 LinkedIn
+💼 LinkedIn
 
 https://www.linkedin.com/in/minakshee-zope/
 
-### 🐙 GitHub
+🐙 GitHub
 
 https://github.com/MINAKSHEE1
+
+📧 Email
+
+zopeminakshee@gmail.com
 
 </div>
 
@@ -288,14 +225,8 @@ https://github.com/MINAKSHEE1
 
 <div align="center">
 
-## 💭 Philosophy
+## ⚡ ENGINEERING THE FUTURE
 
-> "Great software is where creativity, engineering, and user experience meet."
-
-<br>
-
-### ⚡ Code • Create • Innovate • Repeat ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:6A5ACD"/>

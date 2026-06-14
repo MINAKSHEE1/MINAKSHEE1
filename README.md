@@ -1,102 +1,136 @@
 <div align="center">
 
-# ⚡ MINAKSHEE ZOPE
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,100:00D9FF&text=MINAKSHEE%20ZOPE&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-### Frontend Engineer • Data Specialist • AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Frontend+Engineer+%F0%9F%9A%80;React.js+Developer+%F0%9F%92%BB;Flutter+Application+Developer+%F0%9F%93%B1;Data+Processing+%26+Analytics+Specialist+%F0%9F%93%8A;Building+Scalable+Digital+Experiences+%E2%9A%A1"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Modern+Digital+Experiences;React.js+%7C+Flutter+Developer;Data+Processing+%26+Analytics;Transforming+Ideas+Into+Scalable+Solutions;Future+AI+Engineer" />
+<p>
+<a href="mailto:zopeminakshee@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/minakshee-zope/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=minakshee-zope&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<a href="https://github.com/MINAKSHEE1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=MINAKSHEE1&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
 </div>
 
 ---
 
-# 🌌 Digital Identity
+# 🌌 About Me
 
 ```yaml
-Name: Minakshee Zope
-Location: Maharashtra, India
-Role: Frontend Engineer
-Current Position: Trainee Engineer @ Cognexia AI LLP
-Education: B.E Computer Science
-Passion:
+name: Minakshee Zope
+
+role:
+  - Frontend Engineer
+  - React.js Developer
+  - Flutter Developer
+  - Data Specialist
+
+current_company:
+  Cognexia AI LLP
+
+education:
+  Bachelor of Engineering
+  Computer Science
+
+interests:
   - Web Development
-  - Mobile Applications
-  - Data Engineering
+  - Mobile App Development
+  - Data Analytics
   - Artificial Intelligence
-  - UI/UX Innovation
+  - UI/UX Engineering
 
-Mission:
-  Building scalable digital products that solve real-world problems.
+mission:
+  Building scalable products that solve real-world problems.
 ```
 
 ---
 
-# 🚀 Current Journey
+# ⚡ Engineering Dashboard
 
-```text
-Frontend Development   ████████████████████ 95%
-Flutter Development    ██████████████████░ 90%
-React.js               ███████████████████ 95%
-Data Analytics         ████████████████░░░ 85%
-Machine Learning       ██████████████░░░░░ 75%
-Artificial Intelligence██████████████░░░░░ 80%
+<div align="center">
+
+| Focus Area | Progress |
+|------------|----------|
+| Frontend Development | ████████████████████ 95% |
+| React.js Ecosystem | ████████████████████ 95% |
+| Flutter Development | ██████████████████░░ 90% |
+| Data Analytics | █████████████████░░░ 85% |
+| Machine Learning | ███████████████░░░░░ 75% |
+| Artificial Intelligence | ████████████████░░░░ 80% |
+
+</div>
+
+---
+
+# 💼 Experience Timeline
+
+## 🚀 Trainee Engineer | Cognexia AI LLP
+
+```diff
++ Data Processing & Validation
++ Data Transformation Pipelines
++ React.js Development
++ Flutter Development
++ WordPress Customization
++ Git Version Control
++ SDLC Collaboration
++ UI Optimization
+```
+
+### Impact
+
+✔ Processed and transformed business-critical datasets
+
+✔ Developed responsive WordPress websites
+
+✔ Built scalable React.js and Flutter applications
+
+✔ Collaborated with cross-functional teams
+
+✔ Improved frontend performance and usability
+
+---
+
+## 🎨 UI/UX Intern | Probity
+
+```diff
++ UI Design
++ User Research
++ Wireframing
++ Prototyping
++ Responsive Design
 ```
 
 ---
 
-# 💼 Professional Experience
+## 🌐 Web Development Intern | InternPe
 
-## 🏢 Cognexia AI LLP
-### Trainee Engineer
-
-🔹 Processed and transformed business-critical datasets
-
-🔹 Developed responsive WordPress solutions
-
-🔹 Built scalable UI systems using React.js & Flutter
-
-🔹 Collaborated across SDLC phases
-
-🔹 Improved user experience through frontend optimization
+```diff
++ MERN Stack Development
++ REST API Integration
++ Full Stack Engineering
++ Application Optimization
+```
 
 ---
 
-## 🎨 Probity
-### UI/UX Intern
+# 🛠 Tech Ecosystem
 
-✔ User Research
-
-✔ Wireframing & Prototyping
-
-✔ Responsive Design
-
-✔ Usability Testing
-
----
-
-## 🌐 InternPe
-### Web Development Intern
-
-✔ MERN Stack Development
-
-✔ REST API Integration
-
-✔ Full Stack Application Development
-
----
-
-# ⚙️ Tech Arsenal
-
-## Frontend Ecosystem
+## Frontend Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,tailwind,bootstrap" />
-
+<img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,bootstrap,tailwind" />
 </p>
 
 ---
@@ -104,65 +138,32 @@ Artificial Intelligence██████████████░░░░░
 ## Backend & Database
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase" />
-
 </p>
 
 ---
 
-## Data & Analytics
+## Programming & Analytics
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python" />
-
 </p>
 
-### Expertise
+<div align="center">
 
-```text
-Python
-SQL
-Pandas
-NumPy
-Power BI
-Tableau
-Data Processing
-Data Validation
-Data Transformation
-Machine Learning
-```
+Python • Pandas • NumPy • SQL • Power BI • Tableau
+
+Data Processing • Data Validation • Data Transformation
+
+</div>
 
 ---
 
 ## Development Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
-
 </p>
-
----
-
-# 🧠 Engineering Philosophy
-
-> "Good design is invisible.
->
-> Great engineering is unforgettable."
-
-I believe software should be:
-
-✨ Fast
-
-✨ Scalable
-
-✨ User-Centric
-
-✨ Accessible
-
-✨ Data-Driven
 
 ---
 
@@ -170,83 +171,116 @@ I believe software should be:
 
 ## 📊 Smart Data Analysis Dashboard
 
-```diff
-+ Automated Data Cleaning
-+ Real-Time Visualization
-+ Machine Learning Insights
-+ Business Intelligence Dashboard
+### Stack
+
+```yaml
+Python
+Pandas
+Streamlit
+Machine Learning
+Data Visualization
 ```
 
-**Tech Stack**
+### Highlights
 
-Python • Pandas • Streamlit • Machine Learning
+🚀 Automated Data Cleaning
+
+📈 Interactive Dashboards
+
+🤖 Machine Learning Predictions
+
+📊 Business Intelligence Insights
 
 ---
 
 ## 🛡 Human Safety Application
 
-```diff
-+ Emergency SOS Alerts
-+ Real-Time GPS Tracking
-+ Firebase Authentication
-+ Cloud Firestore
+### Stack
+
+```yaml
+Flutter
+Firebase
+Cloud Firestore
+Google Maps API
 ```
 
-**Tech Stack**
+### Highlights
 
-Flutter • Firebase • Google Maps API
+📍 Real-Time GPS Tracking
+
+🚨 Emergency SOS Alerts
+
+☁ Cloud Synchronization
+
+🔐 Secure Authentication
 
 ---
 
-# 📈 Contribution Analytics
+# 🏆 Achievements
+
+```text
+✓ Frontend Engineering
+✓ React.js Development
+✓ Flutter Applications
+✓ Data Analytics
+✓ WordPress Development
+✓ UI/UX Design
+
+→ Next Target:
+  Artificial Intelligence
+  Cloud Computing
+  Full Stack Architecture
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minakshee-zope&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MINAKSHEE1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minakshee-zope&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINAKSHEE1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Streak Statistics
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minakshee-zope&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MINAKSHEE1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Achievement Roadmap
-
-- ✅ Frontend Development
-- ✅ React.js Ecosystem
-- ✅ Flutter Development
-- ✅ Data Analytics
-- 🔄 AI-Powered Applications
-- 🔄 Cloud Engineering
-- 🎯 Full Stack Architect
-
----
-
-# 🌍 Connect With Me
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="mailto:zopeminakshee@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![snake gif](https://github.com/MINAKSHEE1/MINAKSHEE1/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://linkedin.com/in/minakshee-zope">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://github.com/minakshee-zope">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+### 📧 Email
+
+zopeminakshee@gmail.com
+
+### 💼 LinkedIn
+
+https://www.linkedin.com/in/minakshee-zope/
+
+### 🐙 GitHub
+
+https://github.com/MINAKSHEE1
 
 </div>
 
@@ -254,8 +288,14 @@ Flutter • Firebase • Google Maps API
 
 <div align="center">
 
-## ⚡ "Code. Create. Innovate. Repeat."
+## 💭 Philosophy
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
+> "Great software is where creativity, engineering, and user experience meet."
+
+<br>
+
+### ⚡ Code • Create • Innovate • Repeat ⚡
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,100:6A5ACD"/>
